@@ -1,2 +1,2 @@
-# holbertonschool-shell
+# Holbertonschool-shell
 Basic scripts
