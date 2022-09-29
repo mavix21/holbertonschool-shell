@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -f1 | sort | uniq -c | sort -nbr | column -t | tr -s '[:blank:]' '\t' | cut -f2 | head -11
