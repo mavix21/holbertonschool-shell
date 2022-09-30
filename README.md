@@ -1,2 +1,1 @@
-# Holbertonschool-shell
-Basic scripts
+# Init Files, Variables and Expansions
